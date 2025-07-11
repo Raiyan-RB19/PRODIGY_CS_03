@@ -24,3 +24,6 @@ It evaluates password strength based on common criteria (length, uppercase, lowe
 
 ```bash
 python main.py
+```
+## APP PREVIEW
+![APP PREVIEW](https://github.com/Raiyan-RB19/PRODIGY_CS_03/blob/0723ddba9594063f335ba62982950144e5904166/strong%20pass.png)![APP PREVIEW](https://github.com/Raiyan-RB19/PRODIGY_CS_03/blob/b6b2ec6ae5de0aa74a1e03bb3d13e6e03be8d492/weak%20pass.png)
